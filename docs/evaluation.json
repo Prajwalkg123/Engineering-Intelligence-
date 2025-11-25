@@ -1,0 +1,15 @@
+{
+  "task": "classification",
+  "accuracy": 1.0,
+  "f1_weighted": 1.0,
+  "confusion_matrix": [
+    [
+      19,
+      0
+    ],
+    [
+      0,
+      21
+    ]
+  ]
+}
